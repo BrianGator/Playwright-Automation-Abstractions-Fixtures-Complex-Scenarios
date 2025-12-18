@@ -1,11 +1,6 @@
 # Resources File
 
-This file will be used for the exercises in this course. I'll include links that are discussed in each video.
-
-This course is an extension of Butch Mayhew's course [Learning Playwright](https://www.linkedin.com/learning/learning-playwright). This course will build on the existing code from that course.
-
-## 00_01 Introduction: Playwright Abstractions, Fixtures, and Complex Scenarios
-
+This file will be used for the exercises 
 ## 00_02 What You Need to Know
 
 - [Learning Playwright](https://www.linkedin.com/learning/learning-playwright/)
