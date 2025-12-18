@@ -9,4 +9,3 @@
 4. `npm install` to install the node depencies
 5. `npx playwright install` to install the playwright browsers
 6. `npx playwright test` to run all the test in the directory
-7. Utilize the links found in [RESOURCES.MD](RESOURCES.md) for each video.
